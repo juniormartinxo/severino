@@ -1,0 +1,9 @@
+[submodule "extract"]
+	path = extract
+	url = git@github.com:juniormartinxo/severino-extract.git
+[submodule "api"]
+	path = api
+	url = git@github.com:juniormartinxo/severino-api.git
+[submodule "parser"]
+	path = parser
+	url = git@github.com:juniormartinxo/severino-parser.git

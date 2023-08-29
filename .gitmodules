@@ -8,5 +8,5 @@
 	path = parser
 	url = git@github.com:juniormartinxo/severino-parser.git
 [submodule "front"]
-	path = parser
+	path = front
 	url = git@github.com:juniormartinxo/severino-front.git

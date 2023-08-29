@@ -7,3 +7,6 @@
 [submodule "parser"]
 	path = parser
 	url = git@github.com:juniormartinxo/severino-parser.git
+[submodule "front"]
+	path = parser
+	url = git@github.com:juniormartinxo/severino-front.git
